@@ -103,21 +103,6 @@ The trained Machine Learning pipeline is saved as:
 
 `telco_churn_model.pkl`
 
----
-## 🚀 Prediction Application
-
-A prediction application was developed using **Python and Gradio**.
-
-The application allows users to enter customer information and receive:
-
-- Churn prediction
-- Churn probability
-- Recommended retention action
-
-The trained Machine Learning pipeline is saved as:
-
-`telco_churn_model.pkl`
-
 ### ▶️ Run the Application
 
 For Windows users, simply **double-click `run_app.bat`** to launch the application.
